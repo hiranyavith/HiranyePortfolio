@@ -49,7 +49,7 @@ export default function Home() {
               </li>
               <li>
                 <a
-                  href="https://drive.google.com/file/d/1_zT0zB6VII-iDKkkTxV6tfhnjOluZeq8/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1KVwMejHp11Pj85l1ULXXd2uVkcNVEWPo/view?usp=sharing"
                   download={"resume"}
                   className="bg-yellow-400 text-black px-8 py-2 border-none rounded-xl"
                   target="_blank"
